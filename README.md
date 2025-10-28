@@ -172,15 +172,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Soumya Sumankar**
+**Soumya Suman kar**
 
 - GitHub: [@SOUMYA0023](https://github.com/SOUMYA0023)
-
-## 🙏 Acknowledgments
-
-- Built with [Convex](https://convex.dev) - The full-stack serverless platform
-- UI components inspired by [shadcn/ui](https://ui.shadcn.com/)
-- Design patterns from Slack
 
 ---
 
